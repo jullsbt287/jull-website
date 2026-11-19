@@ -1,0 +1,13 @@
+{
+  "name": "jull-website-server",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Server Node.js untuk menyajikan website JULL dengan Supabase Auth",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
